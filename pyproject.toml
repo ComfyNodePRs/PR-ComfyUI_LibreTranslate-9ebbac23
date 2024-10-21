@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_libretranslate"
+description = "Use LibreTranslation in ComfyUI [a/https://github.com/LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)"
+version = "1.0.1"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/seghier/ComfyUI_LibreTranslate"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "seghier"
+DisplayName = "ComfyUI_LibreTranslate"
+Icon = ""
